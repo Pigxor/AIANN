@@ -1,0 +1,6 @@
+﻿  ANN.cpp
+c:\users\finn\documents\university\visual studio\ai\ann\ann\ann.cpp(8): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\finn\documents\university\visual studio\ai\ann\ann\ann.cpp(9): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\finn\documents\university\visual studio\ai\ann\ann\ann.cpp(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ANN.vcxproj -> C:\Users\Finn\Documents\University\Visual Studio\AI\ANN\Debug\ANN.exe
+  ANN.vcxproj -> C:\Users\Finn\Documents\University\Visual Studio\AI\ANN\Debug\ANN.pdb (Partial PDB)
